@@ -3,7 +3,7 @@ description: Blogging about law
 meta_description: "Avocatier, Blogging about law and justice"
 
 markdown: redcarpet
-highlighter: rouge
+highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
