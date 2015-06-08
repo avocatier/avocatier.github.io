@@ -1,0 +1,15 @@
+name: Avocatier
+description: Blogging about law
+meta_description: "Avocatier, Blogging about law and justice"
+
+markdown: redcarpet
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://avocatier.github.io'
+google_analytics: 'UA-50624100-5'
+
+# Details for the RSS feed generator
+url:            'http://avocatier.github.io'
+author:         'Avocatier'
