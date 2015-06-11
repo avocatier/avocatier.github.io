@@ -8,7 +8,7 @@ Bienvenue sur le nouveau blog de l'Avocatier !
 
 Si vous cherchez à en savoir plus sur l'Avocatier, alors vous êtes arrivés au bon endroit. Nous publierons ici des articles à propos de notre développement, de notre équipe, mais aussi de nombreux conseils pour vous aider.
 
-Vous pouvez aussi [nous suivre sur Twitter]!
+Vous pouvez aussi **[nous suivre sur Twitter]!**
 
 A bientôt!
 
