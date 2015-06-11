@@ -11,5 +11,5 @@ domain_name: 'http://avocatier.github.io'
 google_analytics: 'UA-50624100-5'
 
 # Details for the RSS feed generator
-url:            'http://avocatier.github.io'
+url:            'http://blog.avocatier.com/'
 author:         'Avocatier'
