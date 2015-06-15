@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me 
+title:  
 ---
 
-Blog de l'Avocatier.
+Vous êtes avocat? [https://avocatier.launchrock.com](https://avocatier.launchrock.com/)
