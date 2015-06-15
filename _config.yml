@@ -7,9 +7,9 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://blog.avocatier.com'
+domain_name: 'blog.avocatier.com'
 google_analytics: 'UA-50624100-5'
 
 # Details for the RSS feed generator
-url:            'http://blog.avocatier.com'
+url:            'blog.avocatier.com'
 author:         'Avocatier'
